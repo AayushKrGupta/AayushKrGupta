@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [MindScribe](https://github.com/AayushKrGupta/MindScribe.git)
 
-- 🌱 I’m currently learning **MERN Stack, React Native, Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **MERN Stack, React Native CLI, Kotlin, Jetpack Compose**
 
-- 📫 How to reach me **aayushkumar@mail.com**
+- 📫 How to reach me **aayushkr.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
