@@ -1,26 +1,27 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+👋+What's+Up!?+I'm+Aayush+Kr.+Gupta;Full+Stack+App+Developer;Founder+@+Brancovenn;Building+Cool+Apps+&+Systems🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+👋+What's+Up!?+I'm+Aayush+Kr.+Gupta;Full+Stack+App+Developer;Founder+@+BrancoVenn;Building+Cool+Apps+🚀" />
 </h1>
 
 <div align="center">
-  <a href="https://brancovenn.com">
-    <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="140" alt="Brancovenn Logo"/>
+  <a href="https://brancovenn.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="140" alt="BrancoVenn Logo"/>
   </a>
+  <h3>🚀 Founder @ <a href="https://brancovenn.com">BrancoVenn</a></h3>
 </div>
 
 <p align="center">
-  👨‍💻 Full Stack App Developer focused on Android, Web & Backend | Always learning and building <br>
-  📬 Reach me: <a href="mailto:aayushkr.dev@gmail.com">aayushkr.dev@gmail.com</a>
+  👨‍💻 Full Stack App Developer focused on Android, Web & Backend <br />
+  📫 Reach me: <a href="mailto:aayushkr.dev@gmail.com">aayushkr.dev@gmail.com</a>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aayushkrgupta/">
+  <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/aayushkr_dev">
+  <a href="https://x.com/aayushkr_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1252004691580162191">
+  <a href="https://discord.com/users/1252004691580162191" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
@@ -104,7 +105,7 @@
 ## 😄 Fun Vibes
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  <img height="200" src="https://tenor.com/bg6ns.gif" alt="fun gif" />
 </div>
 
 <p align="center">
