@@ -74,40 +74,44 @@
 
 </div>
 
+
+
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushKrGupta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushKrGupta&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AayushKrGupta&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushKrGupta&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=AayushKrGupta&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app?username=AayushKrGupta&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://streak-stats.demolab.com?user=AayushKrGupta&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AayushKrGupta&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
+
+
 
 ## 🐼 Pacman Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushkrgupta/aayushkrgupta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushkrgupta/aayushkrgupta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aayushkrgupta/aayushkrgupta/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
 
-## 😄 Fun Vibes
+
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bg6ns.gif" alt="fun gif" />
-</div>
 
-<p align="center">
-✨ Keep building. Keep growing. ✨
-</p>
+✨ Building cool things. Learning everyday. 🚀
+
+</div>
