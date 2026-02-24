@@ -4,19 +4,17 @@
 
 <h1 align="center">Hi 👋 I'm Aayush Kr. Gupta</h1>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+App+Developer;Founder+@+BrancoVenn;Building+Cool+Apps+and+Systems🚀" />
-</div>
+<br>
 
 <div align="center">
 
 <h3> Founder @BrancoVenn</h3>
 
 <a href="https://brancovenn.com">
-<img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="120"/>
+<img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="80"/>
 </a>
 
-<p>👨‍💻 Full Stack App Developer focused on Android, Web & Backend</p>
+<p>👨‍💻 Full Stack App Developer focused on Android, Cross-Platform React Native & Backend</p>
 <p>📫 Reach me: <a href="mailto:aayushkr.dev@gmail.com">aayushkr.dev@gmail.com</a></p>
 
 <a href="https://www.linkedin.com/in/aayushkrgupta/">
@@ -32,6 +30,8 @@
 </a>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=dracula" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=dracula&cache_bust=20260223" height="150"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkrgupta&layout=compact&theme=dracula" height="150"/>
 
