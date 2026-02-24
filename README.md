@@ -31,7 +31,7 @@
 
 </div>
 
-<br>
+<br> <br>
 
 <div align="center">
 
@@ -85,29 +85,35 @@
 
 </div>
 
+<br> <br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aayushkrgupta&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkrgupta&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160"/>
+
+</div>
+
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=dracula&cache_bust=20260223" height="150"/>
+<img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=dracula&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkrgupta&layout=compact&theme=dracula" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aayushkrgupta&theme=dracula&no-frame=true&row=1&column=6" height="160"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=dracula" height="150"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aayushkrgupta&theme=dracula" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true" height="300"/>
-
-</div>
+<br>
 
 <div align="center">
 
@@ -119,6 +125,7 @@
 
 </div>
 
+<br>
 
 <div align="center">
 
