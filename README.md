@@ -134,7 +134,7 @@
 <td>
 
 <!-- GitHub Stats WITHOUT rank -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
 
 </td>
 
@@ -151,6 +151,5 @@
 </div>
 
 <div align="center">
-  <i>"The biggest risk is not taking any risk."</i><br>
-  — Mark Zuckerberg
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+scalable+systems.;Building+products+that+matter." />
 </div>
