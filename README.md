@@ -115,7 +115,7 @@
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=dark&hide_border=true" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aayushkrgupta&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 
 <br>
