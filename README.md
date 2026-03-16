@@ -10,16 +10,8 @@
   <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br>
   Building impactful apps & backend systems<br>
   👨‍💻 Full Stack App Developer (Android, React Native, Backend)
+  🌍 Active Open-Source Contributor
 </p>
-
-<!-- Company Logo -->
-<div align="center">
-  <a href="https://brancovenn.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="100" alt="BrancoVenn Logo" />
-  </a>
-</div>
-
-<br>
 
 <h3 align="center">📲 Reach Me</h3>
 
@@ -137,7 +129,6 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
 
 </td>
-
 
 <td>
 
