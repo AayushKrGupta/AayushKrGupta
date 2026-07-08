@@ -27,7 +27,7 @@ Building impactful apps & backend systems<br>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/aayushkr_dev" target="_blank">
+  <a href="https://x.com/AayushKrGupta_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -109,13 +109,6 @@ Building impactful apps & backend systems<br>
 <!-- GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=highcontrast" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
 </div>
 
 <br>
