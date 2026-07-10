@@ -27,7 +27,7 @@ Building impactful apps & backend systems<br>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/AayushKrGupta_" target="_blank">
+  <a href="https://x.com/AaayushKrGupta" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
